@@ -22,3 +22,9 @@ npx --yes skills add suanrongbaicai/recreate-motion-from-reference --skill recre
 
 测试使用隔离的项目、HOME 与 npm 缓存，关闭 CLI 遥测，没有修改用户全局安装，没有创建新凭据。其他 Agent 的实际安装与端到端视频效果尚未验证。本仓库当前未配置 GitHub Actions，不能把这次测试描述成 CI 通过。
 
+
+## 公开视频核验
+
+2026-10-03，三条已指定 MP4 上传至 media/。随后从公开仓库重新克隆提交 `89310a9ab6b7455e834e096807fab997e61736aa`，三文件大小及 SHA-256 全部与此前已交付版本一致。校验值见 media/README.md。
+
+GitHub 的大文件页面提供 Raw / Download raw file 入口；这里提供的是文件链接，不声明 README 内嵌播放。视频没有重压缩或重配音乐。
