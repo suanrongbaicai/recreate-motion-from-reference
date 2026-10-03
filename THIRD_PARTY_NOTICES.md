@@ -10,4 +10,4 @@
 
 来源：[原帖](https://x.com/darel023/status/2103424524297420829)、[案例收录页](https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103424524297420829)。引用与链接不表示作者背书，也不构成对第三方资产的转授权。
 
-本仓库不打包第三方视频、音频、字体或截图。案例复刻配乐的来源与修改说明保留在 `skills/recreate-motion-from-reference/references/credits-and-sharing.md` 中，仅为署名记录。若单独发布包含这些素材的视频，仍须遵守对应素材许可；不得仅附本仓库 MIT 许可代替它们。
+安装用 Skill 目录不打包第三方视频、音频、字体或截图。仓库 media/ 另附两条复刻和一条比较视频，后者左侧含原作画面；所有视频均不纳入 MIT 再授权。案例复刻配乐的来源与修改说明保留在 `skills/recreate-motion-from-reference/references/credits-and-sharing.md` 中，仅为署名记录。若单独发布包含这些素材的视频，仍须遵守对应素材许可；不得仅附本仓库 MIT 许可代替它们。

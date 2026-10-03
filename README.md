@@ -4,6 +4,20 @@
 
 适合想让 AI 做参考复刻、动效练习、或者修正现有复刻的人。包含可复用提示词和一个 15 秒复杂动效案例。本仓库提供方法和检查工具，不含该案例的一键渲染源工程，也不承诺一次生成或像素一致。
 
+## 先看视频
+
+- [简单 UI 复刻，14 秒](media/simple-ui-v4.mp4)
+- [复杂动效复刻，15 秒](media/complex-showreel-r2.mp4)
+- [复杂动效左右同步对比](media/complex-side-by-side.mp4)
+
+链接进入 GitHub 文件页；没有播放器时点 **Raw / Download raw file** 下载观看。视频制作说明、文件校验与完整音乐署名在 [media/README.md](media/README.md)。
+
+## 谁做的，渲染到了哪一步
+
+由 GPT/dot 按参考视频写代码并多轮修改；制作记录没有保留可核实的 GPT 精确型号。原作页面写的 Claude Opus 5.5 属于原作者案例，不能当作这次复刻的模型说明。
+
+简单 UI v4 已用 Remotion 4.0.532 正式导出。复杂 R2 当时未取得并核实正式 Remotion 输出，当前给出的 MP4 是 Native Canvas + FFmpeg 真正渲染出来的，不能说成“完全没渲染”。
+
 ## 它会做什么
 
 - 从真实视频提取带时间的事件表，区分静止、变速、错峰、遮罩与相机运动
@@ -46,7 +60,7 @@ npx skills add suanrongbaicai/recreate-motion-from-reference
 
 实际复刻视频采用 Native Canvas + FFmpeg，1280×720、60fps、900 帧。配乐使用另外取得许可的音乐。左右对比为 1920×628、15 秒，左原作、右复刻，保持原时间轴。粒子质感等仍有可见差异。
 
-本仓库不分发第三方原片、音轨或视频截图；参考原作保留作者链接。案例的参考作用、实际迭代和复现边界见 [详细记录](skills/recreate-motion-from-reference/references/case-daryl-r2.md)。
+本仓库附两条复刻与一条左右对比，不单独上传原片。对比左侧包含原作画面，相关权利仍归原作者；视频不整体套用 MIT。案例的参考作用、实际迭代和复现边界见 [详细记录](skills/recreate-motion-from-reference/references/case-daryl-r2.md)。
 
 ## 导出检查
 
