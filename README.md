@@ -86,6 +86,7 @@ skills/recreate-motion-from-reference/
   references/                 工作方法、案例、署名与验证说明
   scripts/check_video.py      本地导出检查
 examples/daryl-r2.md          案例入口
+media/                       两条复刻、左右对比及音乐署名
 LICENSE                      原创内容的 MIT 许可
 THIRD_PARTY_NOTICES.md        第三方内容与许可边界
 ```
