@@ -28,3 +28,9 @@ npx --yes skills add suanrongbaicai/recreate-motion-from-reference --skill recre
 2026-10-03，三条已指定 MP4 上传至 media/。随后从公开仓库重新克隆提交 `89310a9ab6b7455e834e096807fab997e61736aa`，三文件大小及 SHA-256 全部与此前已交付版本一致。校验值见 media/README.md。
 
 GitHub 的大文件页面提供 Raw / Download raw file 入口；这里提供的是文件链接，不声明 README 内嵌播放。视频没有重压缩或重配音乐。
+
+## 新增 Stephan 案例
+
+2026-10-03，经发起者审核认可后加入 Stephan 15 秒复刻及静音左右对比。两文件的完整解码、60fps、900 帧及呈现时间戳检查通过；复刻含 1 条音轨，对比不含音轨。上传后 GitHub 返回的两个 blob SHA 与本地 Git 对象校验值完全相同。
+
+本轮仅新增案例、媒体和署名登记，没有更改 SKILL.md 主规则，也不把此认可表述为新 Skill 已完成独立留出任务验证。
