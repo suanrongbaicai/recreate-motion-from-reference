@@ -17,7 +17,7 @@
 需要 Node.js 和 npm。使用 [Vercel 的 Skills CLI](https://github.com/vercel-labs/skills)，在你想使用 Skill 的项目目录运行：
 
 ```sh
-npx skills add suanrongbaicai/recreate-motion-from-reference --skill recreate-motion-from-reference --agent codex --copy -y
+npx --yes skills add suanrongbaicai/recreate-motion-from-reference --skill recreate-motion-from-reference --agent codex --copy -y
 ```
 
 这是项目范围安装，不会修改全局 Skill。其他 Agent 可用交互式选择：
