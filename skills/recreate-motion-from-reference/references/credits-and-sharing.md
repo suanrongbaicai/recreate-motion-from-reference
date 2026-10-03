@@ -12,7 +12,7 @@ Daryl Patigas / @darel023，15 秒 motion-design showreel。
 
 若后续公开分享含现有配乐的 R2 视频或对比视频，请保留：
 
-“Enter the Party” — Kevin MacLeod（https://incompetech.com/）。
+“Enter the Party” — Kevin MacLeod（[Incompetech](https://incompetech.com/)）。
 Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100240
 Licensed under Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/
 Changes: excerpted; tempo increased from 120 to 128 BPM with pitch-preserving processing; edited to 15 seconds; loudness adjusted; short fades and CC0 sound effects added. No endorsement implied.
