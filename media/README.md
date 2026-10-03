@@ -34,7 +34,7 @@
 
 本片画面为独立代码实现，未直接拼接原片画面或原片音乐。
 
-音乐：“Protofunk” — Kevin MacLeod（https://incompetech.com/）。Guitar: Dan Ritter。
+音乐：“Protofunk” — Kevin MacLeod（[Incompetech](https://incompetech.com/)）。Guitar: Dan Ritter。
 - 来源：https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100103
 - 许可：CC BY 4.0，https://creativecommons.org/licenses/by/4.0/
 - 修改：截取原曲 16.974131–30.974131 秒，调整音量并加入淡入淡出；保留原速、原调及 113 BPM。
@@ -55,7 +55,7 @@
 - 原作：https://x.com/darel023/status/2103424524297420829
 - 案例页：https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103424524297420829
 
-音乐：“Enter the Party” — Kevin MacLeod（https://incompetech.com/）。
+音乐：“Enter the Party” — Kevin MacLeod（[Incompetech](https://incompetech.com/)）。
 - 来源：https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100240
 - 许可：CC BY 4.0，https://creativecommons.org/licenses/by/4.0/
 - 修改：截取并剪成 15 秒，120→128 BPM 保调变速，调整响度、加淡化及 CC0 音效。对比视频直接沿用 R2 音轨。
